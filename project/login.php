@@ -56,7 +56,7 @@ name="type" value="business">
 
 <div class="login-signup">
 <span class="text">Don't have account ?
-<a href="signup.php" class="text signup-link">Signup Now</a>
+<a href="signup.html" class="text signup-link">Signup Now</a>
 </span>
 
 </div>
